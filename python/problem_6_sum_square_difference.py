@@ -1,5 +1,7 @@
 ############################################################
 #Problem 6
+
+
 def sum_square_difference():
     '''Finds the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.'''
     #create an list from 1-100 and use the sum function to add up all the values in that array and then square it

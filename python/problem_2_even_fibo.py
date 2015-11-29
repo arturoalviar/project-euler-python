@@ -7,7 +7,7 @@ def even_fibo():
     fibo_sum = 0
     limit = 300
     while limit > 0:
-        a,b = b, b+a
+        a, b = b, b + a
         if a & 1 == 0:
             fibo_sum += a
         if a > 4000000:

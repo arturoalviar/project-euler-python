@@ -1,6 +1,8 @@
 ############################################################
 #Problem 25
-def thousand_digit_fibo_num(index=0):
+
+
+def thousand_digit_fibo_num(index = 0):
     '''Finds the index of the first term in the Fibonacci sequence to contain 1000 digits?'''
     a , b = 0 , 1
     limit = 100000
